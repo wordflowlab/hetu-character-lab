@@ -1,0 +1,67 @@
+{
+  "record_version": 1,
+  "date": "2026-11-17",
+  "scope": "固定源码研究；未执行上游安装、测试或模型调用；未复制上游业务代码。",
+  "references": [
+    {
+      "repository": "MlittleFriend/dsh-character-profiler",
+      "commit": "9417ad1a6d084a29c7e050c39afb823cbbce3273",
+      "url": "https://github.com/MlittleFriend/dsh-character-profiler/tree/9417ad1a6d084a29c7e050c39afb823cbbce3273",
+      "license": "MIT",
+      "inspected_files": [
+        {
+          "repository": "MlittleFriend/dsh-character-profiler",
+          "commit": "9417ad1a6d084a29c7e050c39afb823cbbce3273",
+          "path": "README.md",
+          "sha256": "de12b4e95b45495240d6d19dc063d336ba0975bb1eb8816012d472150297f8e5",
+          "bytes": 4243,
+          "url": "https://github.com/MlittleFriend/dsh-character-profiler/blob/9417ad1a6d084a29c7e050c39afb823cbbce3273/README.md",
+          "inspected_scope": "README相关功能段落；不是全部实现认证"
+        },
+        {
+          "repository": "MlittleFriend/dsh-character-profiler",
+          "commit": "9417ad1a6d084a29c7e050c39afb823cbbce3273",
+          "path": "lib/stats.js",
+          "sha256": "17c7e0e2b8c6d545ac637e7641f63801f4e9285e9b84612e7b2d41e8a2193369",
+          "bytes": 6546,
+          "url": "https://github.com/MlittleFriend/dsh-character-profiler/blob/9417ad1a6d084a29c7e050c39afb823cbbce3273/lib/stats.js",
+          "inspected_scope": "定向源码／测试条目阅读，未执行"
+        }
+      ]
+    },
+    {
+      "repository": "xia-sc/dsh-cc-studio",
+      "commit": "5645cbd457612bfe248d15d4b386a2ee16a7ae35",
+      "url": "https://github.com/xia-sc/dsh-cc-studio/tree/5645cbd457612bfe248d15d4b386a2ee16a7ae35",
+      "license": "MIT",
+      "inspected_files": [
+        {
+          "repository": "xia-sc/dsh-cc-studio",
+          "commit": "5645cbd457612bfe248d15d4b386a2ee16a7ae35",
+          "path": "README.md",
+          "sha256": "55e9f488ad4e6c2ed17bfd485f79780aa23f717564800ff678ea8cc7e41eb952",
+          "bytes": 25484,
+          "url": "https://github.com/xia-sc/dsh-cc-studio/blob/5645cbd457612bfe248d15d4b386a2ee16a7ae35/README.md",
+          "inspected_scope": "README相关功能段落；不是全部实现认证"
+        }
+      ]
+    },
+    {
+      "repository": "hulibuld/dsh-lifecard",
+      "commit": "cc9364edd69c6959698c5d5a901d458fac17c09f",
+      "url": "https://github.com/hulibuld/dsh-lifecard/tree/cc9364edd69c6959698c5d5a901d458fac17c09f",
+      "license": "MIT",
+      "inspected_files": [
+        {
+          "repository": "hulibuld/dsh-lifecard",
+          "commit": "cc9364edd69c6959698c5d5a901d458fac17c09f",
+          "path": "README.md",
+          "sha256": "42742c0699d7972c357554fe44c465e689592f8385e98fd85371de91ac06242b",
+          "bytes": 7554,
+          "url": "https://github.com/hulibuld/dsh-lifecard/blob/cc9364edd69c6959698c5d5a901d458fac17c09f/README.md",
+          "inspected_scope": "README相关功能段落；不是全部实现认证"
+        }
+      ]
+    }
+  ]
+}

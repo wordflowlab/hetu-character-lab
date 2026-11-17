@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-17T14:41:31.967Z",
+  "platform": "darwin arm64",
+  "package_sha256": "bbd664b1235077129f00f1e74e86fcb2640efe324951e9b6a4614d100087ed4d",
+  "actions": [
+    "skills.read",
+    "save_project",
+    "put_character",
+    "put_hypothesis",
+    "put_interview",
+    "put_trial",
+    "put_arc",
+    "list_projects",
+    "get_source",
+    "get_operation",
+    "get_basis",
+    "measure_mentions",
+    "check_development",
+    "get_character_context",
+    "create_handoff",
+    "remove_arc",
+    "remove_trial",
+    "remove_interview",
+    "remove_hypothesis",
+    "remove_character",
+    "compare_versions",
+    "export_project",
+    "get_project"
+  ],
+  "core_version": "0.11.5+local-cross-owner",
+  "source_build": true,
+  "directory": "/var/folders/87/s6cpr7hd1_v43cs833x4s_900000gn/T/hetu-character-lab-AeobeI",
+  "cli_mcp": true,
+  "skill_resources": true,
+  "hotplug": true,
+  "uninstall_reinstall": true,
+  "candidate_fixed_ref": {
+    "kind": "document",
+    "work_ref": {
+      "workspace_id": "workspace_0bd32dea-60d8-45b8-81b2-a77e7c5360bd",
+      "kind": "novel",
+      "object_id": "novel_e562e9f3-b11c-4ca1-bf9a-6411b294b062"
+    },
+    "document_id": "doc_84780d96-2dcd-4b91-9478-10beac32d564",
+    "revision_id": "rev_6fc830b2-2ab9-4e6c-811e-0684c60fd511",
+    "sha256": "16295785ca4f287dd11fc6f1d5884a64c51a26bc537868a7cb043c43a57ce6b5"
+  },
+  "handoff": {
+    "object_id": "ext_6034f743-3164-41af-a12b-65de537b016a",
+    "owner_plugin_id": "org.wordflowlab.character-lab",
+    "revision": 9,
+    "sha256": "4acb90c05ea78751d7106efebdcbdadbfe5a81e494eef68137476c330e4447d7"
+  },
+  "windows": false
+}
